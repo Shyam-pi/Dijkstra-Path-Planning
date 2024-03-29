@@ -1,4 +1,4 @@
-# Dijkstra Path Planning Algorithm for Mobile Point Robot
+# Dijkstra Path Planning for Mobile Point Robot
 Implementation of Dijkstra Path Planning algorithm for a mobile point robot with a given obstacle map, dynamic start positions and goal positions.
 
 ![dijkstra](https://github.com/Shyam-pi/Dijkstra-Path-Planning/assets/57116285/417b9f17-9ce9-4c7f-a5b4-2161575866f1)
